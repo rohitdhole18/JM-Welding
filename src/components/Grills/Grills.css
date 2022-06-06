@@ -1,0 +1,45 @@
+hr{
+    color: rgba(238, 40, 14, 0.973);
+}
+
+h1 {
+    color: rgb(218, 69, 24);
+    text-shadow: 2px 2px black;
+    position: relative;
+    left: 45%;
+}
+
+.main {
+    position: absolute;
+    width: 1500px;
+    left: 10%;
+}
+
+.img {
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+
+#no1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#no2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#no3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#no4 {
+    display: flex;
+    justify-content: space-around;
+}
+#drop{
+    background-color: #ff8843;
+}
